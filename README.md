@@ -15,3 +15,6 @@ You may also see any lint errors in the console.
 # To Install Required Library
 ### `npm install`
 
+# Create Account on openweathermap.org
+# Generate API_KEY and copy 
+# Paste Generated API_KEY in src/components/weather.js
